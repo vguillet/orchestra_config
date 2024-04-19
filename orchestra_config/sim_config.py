@@ -13,6 +13,7 @@ RUN_MODE = OPERATIONAL
 # ----------------- NODE CONFIGURATION -----------------
 FLEET_MSG_UPDATE_TIMER = 0.1
 SIM_EPOCH_MIN_DURATION = .3
+# SIM_EPOCH_MIN_DURATION = 1.
 
 # ----------------- SIMULATION CONFIGURATION -----------------
 NO_TASK = 0

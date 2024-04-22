@@ -5,7 +5,7 @@ from launch.launch_description_sources import PythonLaunchDescriptionSource
 from launch_ros.actions import Node
 from ament_index_python.packages import get_package_share_directory
 
-from maaf_allocation_node.node_config import *
+# from maaf_allocation_node.node_config import *
 
 
 def generate_launch_description():
